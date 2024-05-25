@@ -15,3 +15,5 @@ https://svitlana137.github.io/calculator/
 
 
 ## Image of the Calculator
+<img width="500" alt="Screenshot 2024-05-25 at 1 12 25 PM" src="https://github.com/Svitlana137/calculator/assets/167694891/c505319e-285e-4990-a51b-9fc69ea3c291">
+
